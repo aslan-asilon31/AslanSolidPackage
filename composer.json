@@ -1,5 +1,5 @@
 {
-    "name": "aslan-asilon31/AslanSolidPackage",
+    "name": "aslan-asilon31/aslan-solid-package",
     "description": "A package for implementing SOLID principles.",
     "type": "laravel-package",
     "license": "MT",
