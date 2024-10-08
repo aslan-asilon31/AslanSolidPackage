@@ -2,7 +2,7 @@
     "name": "aslan-asilon31/aslan-solid-package",
     "description": "A package for implementing SOLID principles.",
     "type": "laravel-package",
-    "license": "MT",
+    "license": "MIT",
     "require": {
         "php": "^8.0",
         "laravel/framework": "^9.0|^10.0"
