@@ -1,0 +1,17 @@
+{
+    "name": "aslan-asilon31/AslanSolidPackage",
+    "description": "A package for implementing SOLID principles.",
+    "type": "laravel-package",
+    "license": "MT",
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^9.0|^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AslanAsilon31\\AslanSolidPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+
+}
